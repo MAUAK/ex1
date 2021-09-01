@@ -7,6 +7,13 @@ namespace ex1
     {
         static void Main(string[] args)
         {
+
+            /*----------------------------------
+
+            Kauam Silva Batista - RA: 210501
+
+            ----------------------------------*/
+
             //Declarando variaveis da classe triangulo
             triangulo x, y;
 
